@@ -4,4 +4,4 @@ IPhone app that contains map with pins for student’s locations, User can put p
 Swift 3.0 
 
 ## License
-Virtual Tourist is released under [MIT License](https://opensource.org/licenses/MIT)
+On-the-Map is released under [MIT License](https://opensource.org/licenses/MIT)
