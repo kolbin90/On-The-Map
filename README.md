@@ -6,7 +6,7 @@ Swift 3.0
 ## Features
 
 * Built app as an educational project based on teacher’s recommendations
-* UIKit, MapKit, Facebook SDK, NSNotification, GCD, REST
+* UIKit, MapKit, Facebook SDK, NSNotification, GCD, REST, CocoaPads
 
 ## Usage
 
