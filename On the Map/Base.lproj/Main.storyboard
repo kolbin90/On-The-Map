@@ -163,7 +163,7 @@
                                         <rect key="frame" x="0.0" y="28" width="375" height="44"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="7Qr-9e-1HO" id="UTW-pu-qcT">
-                                            <rect key="frame" x="0.0" y="0.0" width="375" height="43"/>
+                                            <rect key="frame" x="0.0" y="0.0" width="375" height="43.5"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                         </tableViewCellContentView>
                                     </tableViewCell>
@@ -405,7 +405,7 @@
             <objects>
                 <navigationController id="byf-6g-MqU" sceneMemberID="viewController">
                     <tabBarItem key="tabBarItem" title="Item" id="hae-gn-HZw"/>
-                    <navigationBar key="navigationBar" contentMode="scaleToFill" misplaced="YES" id="eca-zF-Ujv">
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="eca-zF-Ujv">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
                     </navigationBar>
